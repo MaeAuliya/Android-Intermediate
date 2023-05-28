@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uploadin.</string>
+    <string name="image_login">image login</string>
+    <string name="email">Email</string>
+    <string name="title_login_page">Masuk</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="title_register_page">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="title_signup_page">sign up</string>
+    <string name="email_error">Format Email tidak sesuai</string>
+    <string name="pass_error">Format Password tidak sesuai</string>
+    <string name="title_welcome_page">Selamat datang di Uploadin App</string>
+    <string name="message_welcome_page">Aplikasi untuk mengambil momen terbaik mu</string>
+    <string name="signup">Daftar</string>
+    <string name="masuk">Masuk</string>
+    <string name="empty_case">Pastikan semua data anda terisi</string>
+    <string name="username">Username</string>
+    <string name="logout">Keluar</string>
+    <string name="greeting">Halo %1$s, selamat datang di Uploadin App</string>
+    <string name="splash_image">splash</string>
+    <string name="story">image story</string>
+    <string name="desc">Deskripsi</string>
+    <string name="add_story">Tambah</string>
+    <string name="start">Mulai</string>
+    <string name="upload_picture">Unggah</string>
+    <string name="take_picture">Kamera</string>
+    <string name="open_file">Gallery</string>
+    <string name="profile">Profile</string>
+    <string name="desc_hint">Deskripsi</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="location">Lokasi</string>
+    <string name="retry">Coba lagi</string>
+    <string name="share_my_location">Bagikan lokasi saya</string>
+</resources>

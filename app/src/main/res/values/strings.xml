@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Uploadin.</string>
+    <string name="image_login">image login</string>
+    <string name="email">Email</string>
+    <string name="title_login_page">Login</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title_register_page">Register</string>
+    <string name="name">name</string>
+    <string name="title_signup_page">sign up</string>
+    <string name="email_error">Invalid email format</string>
+    <string name="pass_error">Invalid password Format</string>
+    <string name="title_welcome_page">Welcome To Uploadin App</string>
+    <string name="message_welcome_page">Application for taking your best story</string>
+    <string name="signup">Sign Up</string>
+    <string name="masuk">Login</string>
+    <string name="empty_case">Make sure all your data is filled</string>
+    <string name="username">Username</string>
+    <string name="logout">Logout</string>
+    <string name="greeting">Halo %1$s, welcome to Uploadin</string>
+    <string name="splash_image">splash</string>
+    <string name="story">image story</string>
+    <string name="desc">Description</string>
+    <string name="add_story">Add</string>
+    <string name="start">Start</string>
+    <string name="upload_picture">Upload</string>
+    <string name="take_picture">Camera</string>
+    <string name="open_file">Gallery</string>
+    <string name="profile">Profile</string>
+    <string name="desc_hint">Description</string>
+    <string name="title_activity_location" translatable="false">LocationActivity</string>
+    <string name="location">Location</string>
+    <string name="retry">Retry</string>
+    <string name="share_my_location">Share my location</string>
+
+</resources>

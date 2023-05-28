@@ -1,0 +1,22 @@
+Skenario unit test :
+
+1. Story view model ( main view model ) -> merupakan view model yang bertanggung jawab untuk mengambil list data pada paging
+    
+	* ketika berhasil memuat data cerita :
+		
+		- memaastikan data tidak null
+		- memastikan jumlah data sesuai dengan yang diharapkan
+		- memastikan data pertama yang dikembalikan sesuai
+
+	* ketika tidak ada cerita ( emptyList ) :
+
+		- memastikan jumlah data yang dikembalikan nol
+
+
+2.  Login view model
+
+	- memastikan bahwa ketika login post berhasil, maka akan mengembalikan expected 	output yang sesuai
+
+3.  Register view model
+
+	- memastikan bahwa ketika register post berhasil, maka akan mengembalikan 		expected output yang sesuai
